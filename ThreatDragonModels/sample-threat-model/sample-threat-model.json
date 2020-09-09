@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "sample-threat-model",
+    "owner": "Pablo Barrientos",
+    "description": "Sample model created by Microsoft Threat Modeling tool"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
